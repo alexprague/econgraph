@@ -1,7 +1,7 @@
 {
   "name": "supply_and_demand",
   "version": "0.1.0",
-  "homepage": "https://Elliot-IA.github.io/ProjectOikonomika",
+  "homepage": "https://Elliot-IA.github.io/SupplyAndDemandLive",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
