@@ -1,0 +1,47 @@
+/*@font-face{font-family: goldBeach, src: url("./fonts/goldenBeach.otf");}*/
+main {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.container {
+  border: 1px solid black;
+  overflow: hidden;
+}
+
+.moveable {
+  position: absolute;
+}
+
+.not-selectable {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+#settings{
+    position: fixed;
+    top: 70px;
+    right: 20px;
+    z-index: 3000;
+    background: white;
+}
+#graph{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+#settingWheel{
+    cursor: pointer;
+}
+#curve{
+    cursor: pointer;
+}
+#curve:active{
+    cursor: grabbing;
+}
