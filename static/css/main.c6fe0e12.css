@@ -1,0 +1,2 @@
+main{display:grid;height:100vh;place-items:center;width:100vw}.container{border:1px solid #000;overflow:hidden}.moveable{position:absolute}.not-selectable{-webkit-touch-callout:none;-webkit-user-select:none;user-select:none}#settings{background:#fff;position:fixed;right:20px;top:70px;z-index:3000}#graph{left:50%;position:absolute;-webkit-transform:translate(-50%);transform:translate(-50%)}#curve,#settingWheel{cursor:pointer}#curve:active{cursor:grabbing}
+/*# sourceMappingURL=main.c6fe0e12.css.map*/
