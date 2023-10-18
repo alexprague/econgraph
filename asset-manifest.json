@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/SupplyAndDemandLive/static/css/main.c6fe0e12.css",
-    "main.js": "/SupplyAndDemandLive/static/js/main.7dd3924a.js",
-    "static/media/icon.png": "/SupplyAndDemandLive/static/media/icon.791deac22e2df149ef14.png",
-    "index.html": "/SupplyAndDemandLive/index.html",
-    "main.c6fe0e12.css.map": "/SupplyAndDemandLive/static/css/main.c6fe0e12.css.map",
-    "main.7dd3924a.js.map": "/SupplyAndDemandLive/static/js/main.7dd3924a.js.map"
+    "main.css": "/econgraph/static/css/main.c6fe0e12.css",
+    "main.js": "/econgraph/static/js/main.89a36878.js",
+    "static/media/icon.png": "/econgraph/static/media/icon.791deac22e2df149ef14.png",
+    "index.html": "/econgraph/index.html",
+    "main.c6fe0e12.css.map": "/econgraph/static/css/main.c6fe0e12.css.map",
+    "main.89a36878.js.map": "/econgraph/static/js/main.89a36878.js.map"
   },
   "entrypoints": [
     "static/css/main.c6fe0e12.css",
-    "static/js/main.7dd3924a.js"
+    "static/js/main.89a36878.js"
   ]
 }
